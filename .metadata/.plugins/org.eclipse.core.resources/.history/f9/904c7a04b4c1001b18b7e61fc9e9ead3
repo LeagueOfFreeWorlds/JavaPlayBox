@@ -1,0 +1,9 @@
+package polyPack;
+
+public class Exec {
+	public static void main(String[] args) {
+		Animal[] Animals = new Animal[3];
+		 Animals[0] = new Dog();
+		 
+	}
+}

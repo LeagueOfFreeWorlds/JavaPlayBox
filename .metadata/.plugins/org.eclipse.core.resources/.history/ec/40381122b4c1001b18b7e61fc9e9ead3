@@ -1,0 +1,10 @@
+package polyPack;
+
+public class octoCat {
+	public void push() {
+		
+	}
+	public void pull() {
+		
+	}
+}

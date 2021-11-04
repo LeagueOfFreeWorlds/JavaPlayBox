@@ -1,0 +1,10 @@
+package polyPack;
+
+public class Dog {
+	public void Bark() {
+		
+	}
+	public void getMail() {
+		
+	}
+}

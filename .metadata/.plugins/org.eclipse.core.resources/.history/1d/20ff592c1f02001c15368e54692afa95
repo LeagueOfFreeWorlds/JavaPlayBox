@@ -1,0 +1,8 @@
+package intMainTester;
+
+public class CarSelector {
+	public void shouldCallMain() {
+		String[] arguments = {"Ford", "ARM"};
+		CarService.main(arguments);
+	}
+}

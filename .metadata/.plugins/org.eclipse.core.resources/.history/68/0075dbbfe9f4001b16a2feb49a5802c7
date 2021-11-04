@@ -1,0 +1,8 @@
+package calculatorConstFrame;
+import javax.swing.*;
+import java.awt.*;
+public class CalcFrame {
+	CalcFrame(){
+		this.Title("Calculator");
+	}
+}

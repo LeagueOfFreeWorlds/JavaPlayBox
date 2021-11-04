@@ -1,0 +1,10 @@
+package calculatorConstFrame;
+import javax.swing.*;
+import java.awt.*;
+public class CalcFrame extends JFrame{
+	CalcFrame(){
+		this.add(new CalcPanel().textfield);
+		this.setTitle("Calculator");
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

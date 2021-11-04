@@ -1,0 +1,25 @@
+package calculatorConstFrame;
+import javax.swing.*;
+import java.awt.*;
+public class CalcPanel extends JPanel{
+	JTextField textfield;
+	JButton[] numberButtons = new JButton[10]; // instead of having a bunch of individual JButtons, we have them in the form of an array.
+	JButton[] functionButtons = new JButton[8];
+	JButton addButton, subButton
+	JButton decButton, equButton, delButton, clrButton;
+	Font myFont = new Font("Liberation Serif", Font.BOLD, 30);
+	// doubles and ints: 
+	int SCREEN_WIDTH = 400;
+	int SCREEN_HEIGHT = 550; 
+	double num1 = 0 ;S
+	double num2 = 0;
+	char operator; 
+	CalcPanel(){
+		textfield = new JTextField();
+		textfield.setBounds(50, 25, 300, 50);
+		textfield.setEditable(false);
+		textfield.setFont(myFont);
+		add
+		
+	}
+}

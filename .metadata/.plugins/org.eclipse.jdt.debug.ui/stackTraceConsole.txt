@@ -1,0 +1,7 @@
+frame = new JFrame(“Quiz Card Builder”);
+JPanel mainPanel = new JPanel();
+Font bigFont = new Font(“sanserif”, Font.BOLD, 24);
+question = new JTextArea(6,20);
+question.setLineWrap(true);
+question.setWrapStyleWord(true);
+question.setFont(bigFont);
