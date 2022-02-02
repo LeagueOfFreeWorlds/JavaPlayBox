@@ -1,10 +1,13 @@
 package BouncingBall;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.*;
 import java.awt.event.ActionListener;
 import java.awt.geom.Ellipse2D;
+import Primitives.ForceEquations.*;
 
-public class bouncingPanel extends JPanel implements ActionListener {
+public class bouncingPanel extends JPanel implements ActionListener{
+    NewtSecLaw secLaw;
     static final double gravity = 9.8;
     double x = 0, y = 0, velX = 2, velY = 2;
     bouncingPanel(){
