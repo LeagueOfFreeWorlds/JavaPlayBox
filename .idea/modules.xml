@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Eclipse-Workspace.iml" filepath="$PROJECT_DIR$/.idea/Eclipse-Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2_Daniel_Liang/Chapter2_Daniel_Liang.iml" filepath="$PROJECT_DIR$/Chapter2_Daniel_Liang/Chapter2_Daniel_Liang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gooey/Gooey.iml" filepath="$PROJECT_DIR$/Gooey/Gooey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJPDS/IJPDS.iml" filepath="$PROJECT_DIR$/IJPDS/IJPDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPlayBox.iml" filepath="$PROJECT_DIR$/JavaPlayBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meedee/Meedee.iml" filepath="$PROJECT_DIR$/Meedee/Meedee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movement/Movement.iml" filepath="$PROJECT_DIR$/Movement/Movement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolyInherit/PolyInherit.iml" filepath="$PROJECT_DIR$/PolyInherit/PolyInherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolyInheritance/PolyInheritance.iml" filepath="$PROJECT_DIR$/PolyInheritance/PolyInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolyInhi/PolyInhi.iml" filepath="$PROJECT_DIR$/PolyInhi/PolyInhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerialGang/SerialGang.iml" filepath="$PROJECT_DIR$/SerialGang/SerialGang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicCalc/basicCalc.iml" filepath="$PROJECT_DIR$/basicCalc/basicCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleCalcExample/simpleCalcExample.iml" filepath="$PROJECT_DIR$/simpleCalcExample/simpleCalcExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superThis/superThis.iml" filepath="$PROJECT_DIR$/superThis/superThis.iml" />
     </modules>
   </component>
 </project>
